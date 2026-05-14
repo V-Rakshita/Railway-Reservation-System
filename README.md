@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224100049
+# Name: RAKSHITA V
+# Date: 14.05.2026
 
 
 # AIM:
@@ -23,6 +23,9 @@ To develop the Railway Reservation System using Star UML.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="570" height="811" alt="image" src="https://github.com/user-attachments/assets/f507bbac-43fb-4559-a97c-0f71209f6487" />
+
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -46,6 +49,9 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+
+<img width="605" height="566" alt="image" src="https://github.com/user-attachments/assets/2111a908-7332-42e8-94e4-67d463df3467" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
